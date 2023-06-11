@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "902145971178",
+    "project_id": "playamap-a2dc2",
+    "storage_bucket": "playamap-a2dc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902145971178:android:1725d6e75df78d94281893",
+        "android_client_info": {
+          "package_name": "com.example.calamap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI-r-MLpOVsQ6Bemqp59tufK_LXlsaMIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
